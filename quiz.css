@@ -196,7 +196,7 @@ body {
 }
 .question-text {
     font-size: 18px;
-    font-weight: bold;
+    /*font-weight: bold;*/
     margin-bottom: 5px;
     display: flex;
     align-items: baseline;
